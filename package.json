@@ -1,6 +1,12 @@
 {
-	"author": "Judirale13",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Judirale13",
+	"description": "This is a project for learn new concepts",
+	"keywords": [
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
